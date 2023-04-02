@@ -14,7 +14,7 @@ Para ejecutar la api de flask:
 
 Hecho con ❤️ por @rmblockcode
 
-[Video completo en Youtube](https://youtu.be/CzJ6Z2AaPvQ)
+[Video completo en Youtube](https://youtu.be/7I1IH7tZjuo)
 
 Suscríbete a mis canales: 
 [Youtube Channel](https://youtube.com/@rmblockcode)
